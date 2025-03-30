@@ -106,8 +106,3 @@ En el video se debe mostrar:
 2. Cliente Empresa registrando una oferta.
 3. Cliente Aspirante consultando e inscribiéndose.
 4. Archivos de persistencia actualizados (`.txt`).
-
----
-
-¡Gracias por revisar este proyecto!
->>>>>>> 9ceb0f4 (🚀 Implementación inicial del taller RMI: interfaz, servidor, clientes y README)
